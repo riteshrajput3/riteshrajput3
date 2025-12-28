@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Rishi Rajput  
+# 💫 Hi 👋, I'm Ritesh Rajput  
 **A Passionate Web Developer | App Developer | Cybersecurity Enthusiast from India**  
 
 📧 **Email Me:** **rishirajput3924@gmail.com** — for collaborations, freelance projects, or discussions.  
