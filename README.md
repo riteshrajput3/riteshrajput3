@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ritesh Rajput</h1>
 
 <h3 align="center">
-Embedded Systems Engineer • Cybersecurity Enthusiast • AI Developer • Electronics Engineer
+DevOps Engineer • Cloud Engineer • Automation & Security Enthusiast
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Embedded+Systems;Embedded+Linux;C%2FC%2B%2B+Developer;ESP32+%7C+STM32;Python+Automation;Cybersecurity+Enthusiast;Firmware+Development;Hardware+Security;Open+Source+Learner" />
+<i>Electronics & embedded background, now building reliable, automated and secure cloud infrastructure.</i>
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=700&lines=DevOps+Engineer;Cloud+%7C+AWS+%7C+Azure+%7C+GCP;CI%2FCD+Pipelines;Docker+%26+Kubernetes;Infrastructure+as+Code;Linux+%26+Shell+Automation;DevSecOps;Monitoring+%26+Observability" />
 </p>
 
 <p align="center">
@@ -18,79 +22,91 @@ Embedded Systems Engineer • Cybersecurity Enthusiast • AI Developer • Elec
 
 # 🚀 Current Focus
 
-- 🔭 Building Embedded Systems Projects
-- ⚡ Learning Embedded Linux & Device Drivers
-- 💻 Writing C/C++ & Python
-- 🤖 Working with ESP32 & STM32
-- 🔐 Exploring Embedded Security
-- 📡 Hardware Testing & PCB Validation
-- 🌱 Improving DSA and System Design
+- ☁️ Building and deploying workloads on the cloud (AWS / Azure / GCP)
+- 🔄 Designing CI/CD pipelines with GitHub Actions & Jenkins
+- 🐳 Containerizing apps with Docker and orchestrating with Kubernetes
+- 🏗️ Provisioning infrastructure with Terraform (Infrastructure as Code)
+- ⚙️ Automating operations with Bash & Python
+- 🔐 Practicing DevSecOps: secrets management, image scanning, least privilege
+- 📊 Setting up monitoring & observability with Prometheus and Grafana
 - ❤️ Contributing to Open Source
 
 ---
 
 # 📚 Currently Learning
 
-- Embedded Linux
-- Linux Device Drivers
-- RTOS
-- FreeRTOS
-- UART
-- SPI
-- I2C
-- CAN
-- BLE
-- ARM Cortex Programming
-- Reverse Engineering
-- Hardware Security
+- Kubernetes (Deployments, Services, Ingress, Helm)
+- Terraform & Ansible
+- AWS core services (EC2, S3, VPC, IAM, RDS, Lambda, EKS)
+- CI/CD best practices & GitOps (Argo CD)
+- Linux administration & networking
+- Observability (Prometheus, Grafana, ELK/Loki)
+- Cloud security & compliance basics
 
 ---
 
 # 🛠 Tech Stack
 
-## Programming Languages
+## Cloud & Infrastructure
 
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,python,bash"/>
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,terraform,ansible,nginx"/>
 </p>
 
-## Embedded Systems
+## Containers & Orchestration
 
 <p>
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi"/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux"/>
 </p>
 
-**Working With**
+## CI/CD & Version Control
 
-- ESP32
-- STM32
-- Embedded C
-- FreeRTOS
-- PlatformIO
-- PCB Testing
-- Sensor Validation
+<p>
+<img src="https://skillicons.dev/icons?i=githubactions,jenkins,git,github,gitlab"/>
+</p>
+
+## Monitoring & Observability
+
+<p>
+<img src="https://skillicons.dev/icons?i=prometheus,grafana"/>
+</p>
+
+## Programming & Scripting
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,bash,c,cpp"/>
+</p>
+
+## Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,postman"/>
+</p>
 
 ---
 
-## Software & Tools
+# 🔧 DevOps Toolbox
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,postman"/>
-</p>
+| Area | Tools |
+|------|-------|
+| Cloud | AWS, Azure, GCP |
+| IaC | Terraform, Ansible |
+| Containers | Docker, Kubernetes, Helm |
+| CI/CD | GitHub Actions, Jenkins, Argo CD |
+| Monitoring | Prometheus, Grafana |
+| Scripting | Bash, Python |
+| OS & Networking | Linux, TCP/IP, DNS, Load Balancing |
+| Security | IAM, Secrets Management, Trivy, SAST/DAST basics |
 
 ---
 
-## Electronics
+# 🧠 Why DevOps from an Embedded Background?
 
-- Oscilloscope
-- Logic Analyzer
-- UART
-- SPI
-- I2C
-- CAN
-- BLE
-- PCB Validation
-- Hardware Debugging
+- **Systems thinking:** years of debugging low-level hardware and firmware taught me to trace problems across the whole stack.
+- **Linux-first mindset:** comfortable in the terminal, with scripting, toolchains and build systems.
+- **Automation mindset:** testing and validation workflows naturally lead to CI/CD and repeatable pipelines.
+- **Security awareness:** hardware security and reverse engineering interest carries over to DevSecOps.
+- **IoT to cloud:** experience with ESP32/STM32 helps in building device-to-cloud pipelines (MQTT, telemetry, OTA updates).
 
 ---
 
@@ -132,39 +148,52 @@ Embedded Systems Engineer • Cybersecurity Enthusiast • AI Developer • Elec
 
 ---
 
-# 📂 Featured Repositories
+# 📂 Featured Projects
 
-### 🚀 Embedded Systems
+### ☁️ Cloud & Infrastructure
 
-- ESP32 Projects
-- STM32 Drivers
-- Embedded C Examples
-- FreeRTOS Projects
+- Terraform modules for VPC, EC2 and S3 setups
+- Multi-tier application deployment on AWS
+- Cloud cost and resource cleanup scripts
 
 ---
 
-### 🔐 Cybersecurity
+### 🔄 CI/CD & Automation
+
+- GitHub Actions pipelines (build, test, scan, deploy)
+- Jenkins pipeline-as-code (Jenkinsfile) examples
+- Automated Docker image build & push workflows
+
+---
+
+### 🐳 Containers & Kubernetes
+
+- Dockerized Python and C++ applications
+- Kubernetes manifests & Helm charts
+- Local clusters with kind / minikube
+
+---
+
+### 📊 Monitoring & Observability
+
+- Prometheus + Grafana dashboards
+- Alerting rules and log aggregation setups
+
+---
+
+### 🔐 DevSecOps & Security
 
 - Passwordless Authentication System
-- Security Automation Tools
-- Python Security Scripts
+- Container image scanning in CI pipelines
+- Python security automation scripts
 
 ---
 
-### 🤖 AI & Automation
+### 📡 IoT & Embedded to Cloud
 
-- Python Automation
-- AI Utilities
-- Intelligent Hardware Projects
-
----
-
-### 📡 Electronics
-
+- ESP32 / STM32 telemetry to cloud over MQTT
 - Drone Detection System
-- Sensor Testing
-- PCB Validation
-- Hardware Debugging
+- OTA firmware update pipeline with CI/CD
 
 ---
 
@@ -180,15 +209,15 @@ Embedded Systems Engineer • Cybersecurity Enthusiast • AI Developer • Elec
 
 - ✅ Master C
 - ✅ Master C++
-- ⬜ Embedded Linux
-- ⬜ Linux Device Drivers
-- ⬜ FreeRTOS
-- ⬜ ARM Cortex
-- ⬜ PCB Design
-- ⬜ Embedded Security
-- ⬜ Open Source Contributions
+- ⬜ Earn AWS Certified Solutions Architect – Associate (or Cloud Practitioner first)
+- ⬜ Earn Certified Kubernetes Administrator (CKA)
+- ⬜ HashiCorp Terraform Associate certification
+- ⬜ Build an end-to-end CI/CD + Kubernetes + monitoring project
+- ⬜ Deploy a production-style app with IaC and GitOps
+- ⬜ Strengthen Linux administration & networking
+- ⬜ Open Source Contributions in DevOps tooling
 - ⬜ 500+ LeetCode Problems
-- ⬜ Semiconductor Industry Career
+- ⬜ Land a DevOps / Cloud Engineer role
 
 ---
 
@@ -198,12 +227,12 @@ I enjoy learning through building.
 
 Currently looking to contribute to:
 
-- Embedded Systems
-- Linux
-- Firmware Development
-- Cybersecurity
-- AI Tools
-- Developer Utilities
+- DevOps & Automation tools
+- Infrastructure as Code projects
+- Kubernetes ecosystem projects
+- CI/CD tooling
+- Cloud-native & security tools
+- Developer utilities
 
 If you're building something interesting, feel free to collaborate.
 
@@ -217,7 +246,7 @@ If you're building something interesting, feel free to collaborate.
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://linkedin.com/in/in/ritesh-rajput-92aa82277">
+<a href="https://linkedin.com/in/ritesh-rajput-92aa82277">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
@@ -255,12 +284,12 @@ If you're building something interesting, feel free to collaborate.
 
 # ⚡ Fun Fact
 
-> "Hardware is where software meets reality."
+> "Automate everything you do twice. Monitor everything you ship."
 
 ---
 
 <h3 align="center">
 
-Building Secure Hardware • Intelligent Software • Impactful Technology
+Building Reliable Infrastructure • Automated Pipelines • Secure Cloud Systems
 
 </h3>
